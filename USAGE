@@ -1,0 +1,19 @@
+durilka
+    durilka -h
+    durilka --help
+        показывает этот текст
+    durilka -v
+    durilka --version
+        показывает версию "Дурилки"
+    durilka -i <CSS_filename>
+    durilka --input <CSS_filename>
+        принимает <CSS_filename> на вход
+    durilka -o <CSS_filename>
+    durilka --output <CSS_filename>
+        писать результат в файл <CSS_filename> (по умолчанию пишет в исходный файл)
+    durilka -m <kilobytes>
+    durilka --max-size <kilobytes>
+        ограничение на размер кодируемого изображения в килобайтах (по умолчанию: 32)
+    durilka -b <url>
+    durilka --base-url <url>
+        базовый URL для изображений
