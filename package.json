@@ -1,7 +1,7 @@
 {
     "name" : "durilka",
     "description" : "Simple tool for making data URIs from images in CSS files",
-    "version" : "0.0.4",
+    "version" : "0.0.5",
     "author" : "Mikhail Korepanov <panyakor@gmail.com>",
     "homepage": "http://github.com/panya/durilka",
     "repository" : {
